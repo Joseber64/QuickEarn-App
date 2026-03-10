@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1011736738132",
+    "firebase_url": "https://quickearn-7c746-default-rtdb.firebaseio.com",
+    "project_id": "quickearn-7c746",
+    "storage_bucket": "quickearn-7c746.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011736738132:android:0d8e9ea00d6d2c769cf0c1",
+        "android_client_info": {
+          "package_name": "com.quickearn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011736738132-fbovjrug1u90bag0s5qjmdagbcgefrls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCecqTFCq15mXf92t4Pmy6CRRX3JBfJkao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011736738132-fbovjrug1u90bag0s5qjmdagbcgefrls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
