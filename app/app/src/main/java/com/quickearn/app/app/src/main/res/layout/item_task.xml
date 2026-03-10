@@ -1,0 +1,28 @@
+<CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="12dp">
+
+    <LinearLayout
+        android:padding="16dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content">
+            <TextView id="@+id/taskTitle" android:textStyle="bold" android:textSize="18sp" />
+            <TextView id="@+id/taskReward" android:textColor="#00FF00" />
+        </LinearLayout>
+
+        <Button
+            android:text="GANA YA"
+            android:backgroundTint="#FF8C00"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</CardView>
