@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'com.google.gms.google-services' // Esto conecta con tu Firebase
+}
+
+android {
+    compileSdk 33
+    defaultConfig {
+        applicationId "com.quickearn.app"
+        minSdk 24
+        targetSdk 33
+        versionCode 1
+        versionName "1.0"
+    }
+}
